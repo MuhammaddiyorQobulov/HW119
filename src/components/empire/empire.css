@@ -1,0 +1,90 @@
+.empire {
+    padding: 20px 100px;
+    margin-top: 50px;
+}
+
+.empire-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.empire-header h2 {
+    font-size: 40px;
+}
+
+.empire-header p {
+    font-size: 30px;
+}
+
+.waistDress {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.waistDress .waist {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0 0 20px;
+    background: linear-gradient(to top, #FBF7ED 90%, transparent 10%);
+}
+
+.waist img {
+    height: 350px;
+}
+
+.waist h2 {
+    font-size: 31px;
+}
+
+.waist p {
+    color: gray;
+    line-height: 28px;
+    padding: 10px 0;
+}
+
+nav {
+    font-weight: 700;
+}
+
+span {
+    color: gray;
+    font-weight: 100;
+}
+
+.waist i {
+    color: #FF730D;
+}
+
+
+article {
+    margin-top: 10px;
+    color: #FF730D;
+    font-weight: 700;
+}
+
+del {
+    color: gray;
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+.btn {
+    margin-top: 30px;
+    width: 200px;
+}
+
+.like {
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    background-color: white;
+    margin-left: 20px;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgba(220, 220, 220, 0.659);
+}

@@ -1,0 +1,45 @@
+.products {
+  padding: 20px 80px;
+  display: flex;
+  justify-content: space-around;
+  gap: 50px;
+}
+.products .product {
+  width: 270px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+  background-color: #fefafa;
+}
+.products .product img {
+  width: 270px;
+  height: 250px;
+}
+.products .product .stars {
+  display: flex;
+  align-items: center;
+  color: #ff730d;
+  padding: 10px;
+  gap: 3px;
+}
+.products .product .stars nav {
+  color: gray;
+  margin-left: 20px;
+}
+.products .product p {
+  font-weight: 700;
+  font-size: 16px;
+  padding: 0 10px 5px 10px;
+  text-align: center;
+}
+.products .product article {
+  color: #ff730d;
+}
+.products .product article del {
+  color: gray;
+}
+.products .product .btn {
+  margin-top: 20px;
+}

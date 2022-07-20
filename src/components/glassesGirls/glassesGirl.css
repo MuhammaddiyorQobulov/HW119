@@ -1,0 +1,19 @@
+.glassesGirl {
+    display: flex;
+    align-items: center;
+    margin: 50px 100px 20px 100px;
+    justify-content: space-around;
+    background-color: #E0EEFB;
+    gap: 0px;
+}
+
+.glassesGirl h1 {
+    font-size: 60px;
+    line-height: 70px;
+}
+
+.glassesGirl p {
+    font-size: 36px;
+    margin-top: 20px;
+    color: #FF730D;
+}
