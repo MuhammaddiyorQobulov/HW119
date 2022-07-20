@@ -15,6 +15,7 @@ function App() {
       <Products title="Our Featured Products" />
       <Product />
     </div>
+    
   );
 }
 

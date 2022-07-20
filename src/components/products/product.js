@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Button from "../button/button";
-// import "./products.css";
 import "./product.css";
 import img1 from "../../images/products/img1.png";
 import img2 from "../../images/products/img2.png";
